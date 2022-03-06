@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8e448f-7fb9-4264-9966-9d8b46605065" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess-warner-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/Chess1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/out/production/Chess1/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/src/com/company/Chess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chess1/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess-warner-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/Chess1/Chess1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Chess-warner-/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess.java" beforeDir="false" />
-    </list>
+    <list default="true" id="0f8e448f-7fb9-4264-9966-9d8b46605065" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
