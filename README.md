@@ -1,2 +1,3 @@
 # Chess-warner-
-Chess Knight,rook,bishop warner  
+This program can predict warning for Chess,Knight,rook&bishop.
+
